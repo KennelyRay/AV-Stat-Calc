@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a38bfea.css",
-    "main.js": "/static/js/main.86564d2e.js",
-    "index.html": "/index.html",
-    "main.7a38bfea.css.map": "/static/css/main.7a38bfea.css.map",
-    "main.86564d2e.js.map": "/static/js/main.86564d2e.js.map"
+    "main.css": "/AV-Stat-Calc/static/css/main.79d57f1f.css",
+    "main.js": "/AV-Stat-Calc/static/js/main.9e53ad53.js",
+    "index.html": "/AV-Stat-Calc/index.html",
+    "main.79d57f1f.css.map": "/AV-Stat-Calc/static/css/main.79d57f1f.css.map",
+    "main.9e53ad53.js.map": "/AV-Stat-Calc/static/js/main.9e53ad53.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a38bfea.css",
-    "static/js/main.86564d2e.js"
+    "static/css/main.79d57f1f.css",
+    "static/js/main.9e53ad53.js"
   ]
 }
