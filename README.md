@@ -12,7 +12,7 @@ A modern, interactive web application for calculating unit statistics in Anime V
 
 ## Live Demo
 
-Visit the live application: [https://yourusername.github.io/AV-Stat-Calc](https://yourusername.github.io/AV-Stat-Calc)
+Visit the live application: [https://KennelyRay.github.io/AV-Stat-Calc](https://KennelyRay.github.io/AV-Stat-Calc)
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Visit the live application: [https://yourusername.github.io/AV-Stat-Calc](https:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AV-Stat-Calc.git
+git clone https://github.com/KennelyRay/AV-Stat-Calc.git
 cd AV-Stat-Calc
 ```
 
@@ -43,19 +43,6 @@ The app will open at `http://localhost:3000`.
 
 ## Deployment to GitHub Pages
 
-### Automatic Deployment (Recommended)
-
-The project is configured with GitHub Actions for automatic deployment:
-
-1. Fork this repository or push to your own GitHub repository
-2. Update the `homepage` field in `package.json` with your GitHub username:
-   ```json
-   "homepage": "https://yourusername.github.io/AV-Stat-Calc"
-   ```
-3. Push to the `main` branch - GitHub Actions will automatically build and deploy
-4. Enable GitHub Pages in repository settings (Settings → Pages → Source: gh-pages branch)
-
-### Manual Deployment
 
 1. Install gh-pages dependency (already included):
 ```bash
